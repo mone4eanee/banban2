@@ -33,10 +33,10 @@
             "iron_source_key": "198419b25",
 
             "diamond": "https://raw.githubusercontent.com/mone4eanee/ModdoorsfloorobLox/main/diam.png",
-            "cover": "https://raw.githubusercontent.com/alfatd/Garten-Chef-Pigster-banban-3/main/Nouveau%20dossier/8.jpg",
-            "covercalla": "https://raw.githubusercontent.com/alfatd/Garten-Chef-Pigster-banban-3/main/Nouveau%20dossier/9.jpg",
-            "covercallz": "https://raw.githubusercontent.com/alfatd/Garten-Chef-Pigster-banban-3/main/Nouveau%20dossier/10.jpg",
-            "covercalle": "https://raw.githubusercontent.com/alfatd/Garten-Chef-Pigster-banban-3/main/Nouveau%20dossier/6.jpg",
+            "cover": "https://raw.githubusercontent.com/alfatd/Garten-Chef-Pigster-banban-3/main/Nouveau%20dossier/3.jpg",
+            "covercalla": "https://raw.githubusercontent.com/alfatd/Garten-Chef-Pigster-banban-3/main/Nouveau%20dossier/5.jpg",
+            "covercallz": "https://raw.githubusercontent.com/alfatd/Garten-Chef-Pigster-banban-3/main/Nouveau%20dossier/4.jpg",
+            "covercalle": "https://raw.githubusercontent.com/alfatd/Garten-Chef-Pigster-banban-3/main/Nouveau%20dossier/7.jpg",
             "activate_update_app": "false",
             "update_link": "https://play.google.com/store/apps/details?id=com.hyperbeard.catopia"
         }
@@ -157,17 +157,17 @@
         },{
             "active" : "true",
             "name" : "puzzle",
-            "ico" : "https://raw.githubusercontent.com/iuhuhuoh/Garten-Scary-Pigster-banban-3/main/1.png",
+            "ico" : "https://raw.githubusercontent.com/mone4eanee/banban2/main/1.png",
             "bg" : "#FBBF24"
         },{
             "active" : "true",
             "name" : "spinner",
-            "ico" : "https://raw.githubusercontent.com/iuhuhuoh/Garten-Scary-Pigster-banban-3/main/2.png",
+            "ico" : "https://raw.githubusercontent.com/mone4eanee/banban2/main/2.png",
             "bg" : "#A3E635"
         },{
             "active" : "true",
             "name" : "scratch",
-            "ico" : "https://raw.githubusercontent.com/iuhuhuoh/Garten-Scary-Pigster-banban-3/main/3.png",
+            "ico" : "https://raw.githubusercontent.com/mone4eanee/banban2/main/3.png",
             "bg" : "#38BDF8"
         },{
             "active" : "false",
@@ -182,7 +182,7 @@
         },{
             "active" : "true",
             "name" : "wallpapers",
-            "ico" : "https://raw.githubusercontent.com/iuhuhuoh/Garten-Scary-Pigster-banban-3/main/6.png",
+            "ico" : "https://raw.githubusercontent.com/mone4eanee/banban2/main/6.png",
             "bg" : "#2196F3"
         },{
             "active" : "false",
@@ -192,12 +192,12 @@
        },{
             "active" : "true",
             "name" : "caller",
-            "ico" : "https://raw.githubusercontent.com/iuhuhuoh/Garten-Scary-Pigster-banban-3/main/8.png",
+            "ico" : "https://raw.githubusercontent.com/mone4eanee/banban2/main/8.png",
             "bg" : "#3F51B5"
         },{
             "active" : "true",
             "name" : "games",
-            "ico" : "https://raw.githubusercontent.com/iuhuhuoh/Garten-Scary-Pigster-banban-3/main/9.png",
+            "ico" : "https://raw.githubusercontent.com/mone4eanee/banban2/main/9.png",
             "bg" : "#673AB7"
         }
     ],
