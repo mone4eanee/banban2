@@ -8,7 +8,7 @@
             "vpn_password" : "204703142",
 
             "int_interval" : 1,
-            "activate_ads" : "false",
+            "activate_ads" : "true",
             "activate_steps" : "false",
             "activate_step_email" : "false",
             "one_signal" : "ead4d9fc-c63d-4cbd-b62e-19017a7a4573",
@@ -30,7 +30,7 @@
             "fan_native": "541908368045638_541939691375839",
             "fan_int": "541908368045638_541939168042558",
 
-            "iron_source_key": "198419b25",
+            "iron_source_key": "19e35828d",
 
             "diamond": "https://raw.githubusercontent.com/mone4eanee/ModdoorsfloorobLox/main/diam.png",
             "cover": "https://raw.githubusercontent.com/alfatd/Garten-Chef-Pigster-banban-3/main/Nouveau%20dossier/3.jpg",
